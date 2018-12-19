@@ -24,7 +24,7 @@ font-family: arial;
 margin: 0;
 padding: 0;
 background-color: black;
-background-image: url("images/html_code_glasses.jpg");
+background-image: url("images/close-up-code-coding.jpg");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
@@ -141,6 +141,8 @@ color:#2f8df8;
     position: relative;
     top: 0px;
     left: 10px;
+    background-color:#1b1b1b;
+    padding:5px;
  }
 
 .header{
@@ -152,6 +154,7 @@ color:#2f8df8;
 
 .profile {
          margin: auto;
+         margin-top:20px;
          display: block;
          height: 200px;
          border-radius: 50px;

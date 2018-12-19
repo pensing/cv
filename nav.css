@@ -2,9 +2,11 @@
 padding-right:20px;
     position: absolute;
     top: 20px;
-    right: 0px;
+    right: 10px;
     cursor:pointer;
 display:none;
+padding:5px;
+background-color:#1b1b1b;
  }
 
 /* The side navigation menu */
